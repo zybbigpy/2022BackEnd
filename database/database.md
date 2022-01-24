@@ -3,7 +3,7 @@
 ## Memcache
 
 1. GroupCache的实现
-   1. LRU算法
+   1. LRU算法, LFU
    2. 一致性哈希算法
 
 ## Redis
